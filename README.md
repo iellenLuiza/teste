@@ -1,2 +1,2 @@
 # teste
- primeiro repositório, esperimentanto o uso do git e github
+ primeiro repositório, experimentando o uso do git e do github
